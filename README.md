@@ -9,6 +9,12 @@
       4.Functions.
       5.The DOM,getElementById()
       6.innerText(),textContent()
-
+ 
 **Day 2**<br>
-     1.Practice of Day1 topic
+      
+      1.Practice of Day1 topics.
+      
+
+
+
+
