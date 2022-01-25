@@ -1,0 +1,21 @@
+button {
+  padding: 10px;
+  color: white;
+  background: darkslategray;
+  border-radius: 40px;
+}
+img {
+  width: 300px;
+}
+
+p {
+  font-weight: 700;
+}
+
+#error {
+  color: red;
+}
+
+span {
+  text-decoration: underline;
+}
