@@ -22,6 +22,12 @@
       3.Math menthods(random, floor).
       4.Created BlackJack game application.
       
+ **Day 4**<br>
+      
+      1.Objects
+      2.added object in blackJack game appliction
+      3.Practice of Day3 topics.
+      
 
 
 
