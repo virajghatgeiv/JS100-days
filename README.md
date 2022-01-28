@@ -28,6 +28,13 @@
       2.added object in blackJack game appliction
       3.Practice of Day3 topics.
       
+**Day 5**<br>
+      
+      1.Building Chrome Extension.
+      2.addEventListener() 
+      3.innerHTML 
+      4.createElement() & append() instead of innerHTML.
+      
 
 
 
