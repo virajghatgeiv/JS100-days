@@ -35,6 +35,13 @@
       3.innerHTML 
       4.createElement() & append() instead of innerHTML.
       
+**Day 6**<br>
+      
+      1.String literal
+      2.Loaded first verion of Chrome Extension to browser.
+      3.localStorage methods (setItem(),getItem(),clear()).
+      4.JSON methods (parse(),strigify()).
+      
 
 
 
