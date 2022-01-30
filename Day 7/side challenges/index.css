@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  padding: 10px 20px 10px;
+  background: palevioletred;
+  border: none;
+  font-weight: bold;
+}
