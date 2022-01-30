@@ -32,7 +32,7 @@
       
       1.Building Chrome Extension.
       2.addEventListener() 
-      3.innerHTML 
+      3.innerHTML,input.value
       4.createElement() & append() instead of innerHTML.
       
 **Day 6**<br>
@@ -41,6 +41,13 @@
       2.Loaded first verion of Chrome Extension to browser.
       3.localStorage methods (setItem(),getItem(),clear()).
       4.JSON methods (parse(),strigify()).
+      
+**Day 7**<br>
+      
+      1.Function parameters
+      2.Object in array.
+      3.Completed Chrome Extension
+      4.Practice of Day5 & Day6 topics.
       
 
 
