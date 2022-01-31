@@ -37,17 +37,24 @@
       
 **Day 6**<br>
       
-      1.String literal
+      1.String literal.
       2.Loaded first verion of Chrome Extension to browser.
       3.localStorage methods (setItem(),getItem(),clear()).
       4.JSON methods (parse(),strigify()).
       
 **Day 7**<br>
       
-      1.Function parameters
+      1.Function parameters.
       2.Object in array.
       3.Completed Chrome Extension
       4.Practice of Day5 & Day6 topics.
+      
+**Day 8**<br>
+      
+      1.Data structures. 
+      2.Implemented stack using array.
+      3.Implemented stack as object.
+      4.Implemented set as object.
       
 
 
