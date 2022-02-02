@@ -62,6 +62,12 @@
       2.Implemented Queue.
       3.Implemented Priority Queue.
       
+**Day 10**<br>
+      
+      1.Data structures. 
+      2.read about Binary tree.
+      3.Pseudocode for binary tree with add method.
+      
       
 
 
