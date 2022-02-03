@@ -68,6 +68,11 @@
       2.read about Binary tree.
       3.Pseudocode for binary tree with add method.
       
+**Day 11**<br>
+      
+      1.Data structures. 
+      2.Creating Binary tree.
+      3.Creating add method.
       
 
 
