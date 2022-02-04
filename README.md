@@ -74,6 +74,12 @@
       2.Creating Binary tree.
       3.Creating add method.
       
+**Day 12**<br>
+      
+      1.Data structures. 
+      2.Successfully created Binary tree.
+      3.Successfully creating add, findMin, findMax, find, isPresent
+      
 
 
 
