@@ -78,7 +78,13 @@
       
       1.Data structures. 
       2.Successfully created Binary tree.
-      3.Successfully creating add, findMin, findMax, find, isPresent
+      3.Successfully created add, findMin, findMax, find, isPresent methods.
+      
+**Day 13**<br>
+      
+      1.Data structures. 
+      2.Successfully created remove, isBalace methods
+      3.Creating add method findMaxHeight, findMinHeight methods.
       
 
 
