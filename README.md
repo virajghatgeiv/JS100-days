@@ -84,7 +84,13 @@
       
       1.Data structures. 
       2.Successfully created remove, isBalace methods
-      3.Creating add method findMaxHeight, findMinHeight methods.
+      3.Creating findMaxHeight, findMinHeight methods.
+      
+**Day 14**<br>
+      
+      1.Data structures. 
+      2.Successfully created findMaxHeight, findMinHeight methods.
+      3.Creating stack representation on website.
       
 
 
