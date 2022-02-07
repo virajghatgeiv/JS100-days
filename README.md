@@ -92,6 +92,12 @@
       2.Successfully created findMaxHeight, findMinHeight methods.
       3.Creating stack representation on website.
       
+**Day 15**<br>
+      
+      1.Data structures. 
+      2.Successfully created inOrder, preOrder, postOrder methods.
+      3.Added stlying and some pop moditfications for stack representation on website.
+      
 
 
 
