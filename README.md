@@ -98,6 +98,10 @@
       2.Successfully created inOrder, preOrder, postOrder methods.
       3.Added stlying and some pop moditfications for stack representation on website.
       
+**Day 16**<br>
+      
+      1.Tried to make stack value to remain in local storage in stack representation website.
+      
 
 
 
