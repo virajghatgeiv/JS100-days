@@ -102,6 +102,12 @@
       
       1.Tried to make stack value to remain in local storage in stack representation website.
       
+**Day 17**<br>
+      
+      1.Data structure.
+      2.Successfully created leveOrder function for binary search tree.
+      3.Created hashTable and add method.
+      
 
 
 
