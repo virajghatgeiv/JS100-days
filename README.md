@@ -108,6 +108,11 @@
       2.Successfully created leveOrder function for binary search tree.
       3.Created hashTable and add method.
       
+**Day 18**<br>
+      
+      1.Data structure.
+      2.Successfully implemented hasTable.
+      3.successfully created remove and lookup method.
 
 
 
