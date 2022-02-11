@@ -113,6 +113,12 @@
       1.Data structure.
       2.Successfully implemented hasTable.
       3.successfully created remove and lookup method.
+      
+**Day 19**<br>
+      
+      1.Data structure.
+      2.Successfully implemented Linked List.
+      3.successfully created head, size, add, remove methods.
 
 
 
