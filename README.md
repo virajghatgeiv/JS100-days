@@ -119,6 +119,11 @@
       1.Data structure.
       2.Successfully implemented Linked List.
       3.successfully created head, size, add, remove methods.
+      
+**Day 20**<br>
+      
+      1.Data structure.
+      2.successfully created isEmpty, indexOf, elementAt, addAt, removeAt methods.
 
 
 
