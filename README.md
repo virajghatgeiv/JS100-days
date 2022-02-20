@@ -124,6 +124,13 @@
       
       1.Data structure.
       2.successfully created isEmpty, indexOf, elementAt, addAt, removeAt methods.
+      
+**Day 21**<br>
+      
+      1.Data structure.
+      2.Successfully impelemented Trie.
+      3.Successfully created add, isWord, print methods.
+
 
 
 
