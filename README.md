@@ -130,6 +130,12 @@
       1.Data structure.
       2.Successfully impelemented Trie.
       3.Successfully created add, isWord, print methods.
+      
+**Day 22**<br>
+      
+      1.Data structure.
+      2.Successfully impelemented Heap.
+      3.Successfully created insert, remove, sort methods.
 
 
 
