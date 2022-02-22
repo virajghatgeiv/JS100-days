@@ -134,9 +134,14 @@
 **Day 22**<br>
       
       1.Data structure.
-      2.Successfully impelemented Heap.
+      2.Successfully impelemented MinHeap.
       3.Successfully created insert, remove, sort methods.
-
+      
+**Day 23**<br>
+      
+      1.Data structure.
+      2.Successfully impelemented MaxHeap.
+      3.Successfully created insert, remove, sort methods.
 
 
 
