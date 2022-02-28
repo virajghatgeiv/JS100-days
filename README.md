@@ -142,7 +142,11 @@
       1.Data structure.
       2.Successfully impelemented MaxHeap.
       3.Successfully created insert, remove, sort methods.
-
+      
+**Day 24**<br>
+      
+      1.Data structure.
+      2.Successfully impelemented Graph Traversing(Breadth First Search).
 
 
 
