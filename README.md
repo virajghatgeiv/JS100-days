@@ -147,6 +147,12 @@
       
       1.Data structure.
       2.Successfully impelemented Graph Traversing(Breadth First Search).
+      
+**Day 25**<br>
+      
+      1.Data structure.
+      2.Praticed and read about breath first algo.
+      3.Successfully impelemented Graph Traversing(Depth First Search).
 
 
 
