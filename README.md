@@ -151,8 +151,13 @@
 **Day 25**<br>
       
       1.Data structure.
-      2.Praticed and read about breath first algo.
+      2.Praticed and read about breadth first algo.
       3.Successfully impelemented Graph Traversing(Depth First Search).
+      
+**Day 25**<br>
+      
+      1.Graph problems.
+      2.solved hasPath problem(acyclic graph)
 
 
 
