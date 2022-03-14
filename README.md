@@ -157,12 +157,17 @@
 **Day 26**<br>
       
       1.Graph problems.
-      2.solved hasPath problem(acyclic graph)
+      2.Solved hasPath problem(acyclic graph).
       
  **Day 27**<br>
       
       1.Graph problems.
-      2.solved hasPath problem(cyclic graph)
+      2.Solved hasPath problem(cyclic graph).
+      
+**Day 28**<br>
+      
+      1.Graph problems.
+      2.Solved connectedComponentCount problem.
 
 
 
